@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/eddyvy/go-bookings/pkg/config"
-	"github.com/eddyvy/go-bookings/pkg/handlers"
-	"github.com/eddyvy/go-bookings/pkg/render"
+	"github.com/eddyvy/go-bookings/internal/config"
+	"github.com/eddyvy/go-bookings/internal/handlers"
+	"github.com/eddyvy/go-bookings/internal/render"
 
 	"github.com/alexedwards/scs/v2"
 )
